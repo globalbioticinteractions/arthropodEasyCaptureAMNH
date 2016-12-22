@@ -1,4 +1,6 @@
 { 
   "format": "arthropodEasyCapture",
-  "rssFeedURL": "http://amnh.begoniasociety.org/dwc/rss.xml" 
+  "resources": {
+    "rss": "http://amnh.begoniasociety.org/dwc/rss.xml" 
+  }
 }
